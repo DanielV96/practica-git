@@ -1,1 +1,1 @@
-function suma() {}
+function suma(a, b) {}
